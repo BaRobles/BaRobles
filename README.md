@@ -2,11 +2,7 @@
 
 Sou advogada, empreendedora e tradutora, atualmente em transição para a área de tecnologia. Sempre fui curiosa e apaixonada por matemática, o que me levou a estudar programação em 2023.
 
-Vamos nos conectar!
-* [dev.to](https://dev.to/baroblesvi)
-* [LinkedIn](https://www.linkedin.com/in/barbararoblesvillela/)
-
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/baroblesvi)
+Vamos nos conectar! 👉🏻 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/baroblesvi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbararoblesvillela/)
 
 ## Um pouco sobre mim 🌱
@@ -19,9 +15,15 @@ Vamos nos conectar!
 
 ## Habilidades Técnicas 🚀
 
-- **Linguagens:** JavaScript, Python, HTML, CSS
-- **Ciência de Dados:** Pré-processamento, modelagem, avaliação de modelos
-- **Tecnologias:** Git, AWS Cloud
+- **Linguagens:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **Ciência de Dados:** Pré-processamento, machine learning
+- **Tecnologias:** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+
 
 ## Meu Portfólio (front-end)
 * [GitHub](https://barobles.github.io/Portfolio/)
