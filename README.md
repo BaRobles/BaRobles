@@ -2,6 +2,11 @@
 
 Sou advogada, empreendedora e tradutora, atualmente em transição para a área de tecnologia. Sempre fui curiosa e apaixonada por matemática, o que me levou a estudar programação em 2023.
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/baroblesvi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/barbararoblesvillela//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://barobles.github.io/Portfolio/)  
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barobles)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Um pouco sobre mim 🌱
