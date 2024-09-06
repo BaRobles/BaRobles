@@ -25,6 +25,13 @@ Vamos nos conectar! 👉🏻 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A
 ## Meu Portfólio (front-end)
 * [GitHub](https://barobles.github.io/Portfolio/)
 
+## Meu Portfólio 🚀
+[![Portfólio](https://img.shields.io/badge/Portfólio-Visite-green?style=for-the-badge)](https://barobles.github.io/Portfolio/)
+## Meu Portfólio 🌐
+[Visite meu portfólio](https://barobles.github.io/Portfolio/)
+## Meu Portfólio 🌟
+[![Portfólio](https://via.placeholder.com/150x50?text=Visite+meu+Portfólio)](https://barobles.github.io/Portfolio/)
+
 ## O que me motiva?
 
 Usar a tecnologia para melhorar a vida das pessoas e resolver problemas complexos.
