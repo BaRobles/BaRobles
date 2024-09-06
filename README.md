@@ -22,19 +22,18 @@ Vamos nos conectar! 👉🏻 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A
 ![Pré-processamento](https://img.shields.io/badge/Pré--processamento-DataScience-blue?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-orange?style=for-the-badge)
 
-
 ## Meu Portfólio (front-end)
 * [GitHub](https://barobles.github.io/Portfolio/)
+
+## O que me motiva?
+
+Usar a tecnologia para melhorar a vida das pessoas e resolver problemas complexos.
 
 ## Meus Hobbies 🎨
 
 - 🎶 **Música:** Estudo padrões musicais e toco instrumentos.
 - 🌍 **Idiomas:** Falo inglês (C1), espanhol (C1), alemão (B2) e sou iniciante em francês, italiano e grego moderno.
 - 🤸‍♀️ **Atividades Físicas:** Pratico Yôga desde 2010 e atualmente estou treinando para fazer a parada de mão!
-
-## O que me motiva?
-
-Usar a tecnologia para melhorar a vida das pessoas e resolver problemas complexos.
 
 [![Bárbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barobles&theme=tokyonight)](https://github.com/barobles)
 
