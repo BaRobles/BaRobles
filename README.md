@@ -2,12 +2,9 @@
 
 Sou advogada, empreendedora e tradutora, atualmente em transição para a área de tecnologia. Sempre fui curiosa e apaixonada por matemática, o que me levou a estudar programação em 2023.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/baroblesvi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/barbararoblesvillela//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://barobles.github.io/Portfolio/)  
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barobles)](https://github.com/anuraghazra/github-readme-stats)
+Vamos nos conectar!
+* [DEV.TO](https://dev.to/baroblesvi)
+* [LinkdIn](https://www.linkedin.com/in/barbararoblesvillela/)
 
 ## Um pouco sobre mim 🌱
 
@@ -21,12 +18,18 @@ Sou advogada, empreendedora e tradutora, atualmente em transição para a área 
 - **Ciência de Dados:** Pré-processamento, modelagem, avaliação de modelos
 - **Tecnologias:** Git, AWS Cloud
 
+## Meu Portfólio (front-end)
+* [GitHub](https://barobles.github.io/Portfolio/)
+
 ## Meus Hobbies 🎨
 
 - 🎶 **Música:** Estudo padrões musicais e toco instrumentos.
 - 🌍 **Idiomas:** Falo inglês (C1), espanhol (C1), alemão (B2) e sou iniciante em francês, italiano e grego moderno.
-- 🤸‍♀️ **Atividades Físicas:** Pratico Yôga desde 2010 e atualmento tenho treinado para fazer a parada de mão!
+- 🤸‍♀️ **Atividades Físicas:** Pratico Yôga desde 2010 e atualmente estou treinando para fazer a parada de mão!
 
 ## O que me motiva?
 
 Usar a tecnologia para melhorar a vida das pessoas e resolver problemas complexos.
+
+[![Bárbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barobles)](https://github.com/barobles)
+
