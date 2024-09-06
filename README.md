@@ -22,15 +22,8 @@ Vamos nos conectar! 👉🏻 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A
 ![Pré-processamento](https://img.shields.io/badge/Pré--processamento-DataScience-blue?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-orange?style=for-the-badge)
 
-## Meu Portfólio (front-end)
-* [GitHub](https://barobles.github.io/Portfolio/)
-
-## Meu Portfólio 🚀
-[![Portfólio](https://img.shields.io/badge/Portfólio-Visite-green?style=for-the-badge)](https://barobles.github.io/Portfolio/)
-## Meu Portfólio 🌐
-[Visite meu portfólio](https://barobles.github.io/Portfolio/)
-## Meu Portfólio 🌟
-[![Portfólio](https://via.placeholder.com/150x50?text=Visite+meu+Portfólio)](https://barobles.github.io/Portfolio/)
+## Meu Portfólio (front-end) 🌟
+[![Portfólio](https://github.com/BaRobles/BaRobles/blob/main/portfolio-print.png)](https://barobles.github.io/Portfolio/)
 
 ## O que me motiva?
 
