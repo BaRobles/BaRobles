@@ -7,11 +7,9 @@ Vamos nos conectar! 👉🏻 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A
 
 ## Um pouco sobre mim 🌱
 
-## Um pouco sobre mim 🌱
-
 - 🎓 **Primeiros Passos:** Comecei com linguagem C na École 42 de SP, estudando intensivamente por um mês.
-- 💻 **Front-End:** Continuei com o desenvolvimento web pelo programa Elas na Tech, da JA Brasil.
-- 📊 **Ciência de Dados e Machine Learning:** Em 2024, ingressei no programa de Cloud Data Science da Compass, onde participei de três projetos desafiadores que simularam o cotidiano de um cientista de dados. Cada projeto me proporcionou experiência prática em limpeza de dados, exploração de features, construção de pipelines e treinamento de modelos de Machine Learning: um para previsão de preços de carros e outro para análise de risco de crédito.
+- 💻 **Front-End:** Continuei com o desenvolvimento web, pelo programa Elas na Tech, da JA Brasil.
+- 📊 **Ciência de Dados e Machine Learning:** Em 2024, ingressei no programa de **Cloud Data Science** da Compass, onde participei de três projetos desafiadores que simularam o cotidiano de um cientista de dados. Cada projeto me proporcionou experiência prática em limpeza de dados, exploração de features, construção de pipelines e treinamento de modelos de Machine Learning: um para **previsão de preços de carros** e outro para **análise de risco de crédito**.
 
 ## Habilidades Técnicas 🚀
 
@@ -21,7 +19,7 @@ Vamos nos conectar! 👉🏻 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- **Ciência de Dados:** ![Pré-processamento](https://img.shields.io/badge/Pré--processamento-DataScience-blue?style=for-the-badge)
+![Pré-processamento](https://img.shields.io/badge/Pré--processamento-DataScience-blue?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-orange?style=for-the-badge)
 
 
