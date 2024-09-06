@@ -4,7 +4,7 @@ Sou advogada, empreendedora e tradutora, atualmente em transição para a área 
 
 Vamos nos conectar!
 * [DEV.TO](https://dev.to/baroblesvi)
-* [LinkdIn](https://www.linkedin.com/in/barbararoblesvillela/)
+* [LinkedIn](https://www.linkedin.com/in/barbararoblesvillela/)
 
 ## Um pouco sobre mim 🌱
 
