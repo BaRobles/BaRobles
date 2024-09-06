@@ -3,7 +3,7 @@
 Sou advogada, empreendedora e tradutora, atualmente em transição para a área de tecnologia. Sempre fui curiosa e apaixonada por matemática, o que me levou a estudar programação em 2023.
 
 Vamos nos conectar!
-* [DEV.TO](https://dev.to/baroblesvi)
+* [dev.to](https://dev.to/baroblesvi)
 * [LinkedIn](https://www.linkedin.com/in/barbararoblesvillela/)
 
 ## Um pouco sobre mim 🌱
