@@ -36,5 +36,5 @@ Vamos nos conectar! 👉🏻 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A
 
 Usar a tecnologia para melhorar a vida das pessoas e resolver problemas complexos.
 
-[![Bárbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barobles)](https://github.com/barobles)
+[![Bárbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barobles&theme=tokyonight)](https://github.com/barobles)
 
