@@ -26,8 +26,6 @@ Vamos nos conectar! 👉🏻 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A
 <a href="https://barobles.github.io/Portfolio/">
   <img src="https://github.com/BaRobles/BaRobles/blob/main/portfolio-print.png" alt="Portfólio link" width="200"/>
 </a>
-  
-[![Portfólio]()](https://barobles.github.io/Portfolio/)
 
 ## O que me motiva?
 
