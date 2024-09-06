@@ -6,6 +6,11 @@ Vamos nos conectar!
 * [dev.to](https://dev.to/baroblesvi)
 * [LinkedIn](https://www.linkedin.com/in/barbararoblesvillela/)
 
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/baroblesvi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbararoblesvillela/)
+
+## Um pouco sobre mim 🌱
+
 ## Um pouco sobre mim 🌱
 
 - 🎓 **Primeiros Passos:** Comecei com linguagem C na École 42 de SP, estudando intensivamente por um mês.
