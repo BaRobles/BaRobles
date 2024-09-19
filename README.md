@@ -22,10 +22,18 @@ Vamos nos conectar! 👉🏻 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A
 ![Pré-processamento](https://img.shields.io/badge/Pré--processamento-DataScience-blue?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-orange?style=for-the-badge)
 
-## Meu Portfólio (front-end) 🌟
+## Meu Portfólio 🌟
+* ### Front-end
 <a href="https://barobles.github.io/Portfolio/">
   <img src="https://github.com/BaRobles/BaRobles/blob/main/portfolio-print.png" alt="Portfólio link" width="200"/>
 </a>
+* ### Data Science
+[Projeto de Bolsas da Compass UOL - Cloud Data Science](https://github.com/BaRobles/Compass_Data_Science)
+
+<!-- <a href="[Projeto de Bolsas da Compass UOL - Cloud Data Science](https://github.com/BaRobles/Compass_Data_Science)">
+  <img src="https://github.com/BaRobles/BaRobles/blob/main/portfolio-print.png" alt="Portfólio link" width="200"/>
+</a> -->
+
 
 ## O que me motiva?
 
