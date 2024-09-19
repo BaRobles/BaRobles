@@ -11,6 +11,16 @@ Vamos nos conectar! 👉🏻 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A
 - 💻 **Front-End:** Continuei com o desenvolvimento web, pelo programa Elas na Tech, da JA Brasil.
 - 📊 **Ciência de Dados e Machine Learning:** Em 2024, ingressei no programa de **Cloud Data Science** da Compass, onde participei de três projetos desafiadores que simularam o cotidiano de um cientista de dados. Cada projeto me proporcionou experiência prática em limpeza de dados, exploração de features, construção de pipelines e treinamento de modelos de Machine Learning: um para **previsão de preços de carros** e outro para **análise de risco de crédito**.
 
+## Meu Portfólio 🌟
+
+* ### Data Science
+[Projeto de Bolsas da Compass UOL - Cloud Data Science](https://github.com/BaRobles/Compass_Data_Science)
+
+* ### Front-end
+<a href="https://barobles.github.io/Portfolio/">
+  <img src="https://github.com/BaRobles/BaRobles/blob/main/portfolio-print.png" alt="Portfólio link" width="200"/>
+</a>
+
 ## Habilidades Técnicas 🚀
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,16 +31,6 @@ Vamos nos conectar! 👉🏻 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A
 ![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Pré-processamento](https://img.shields.io/badge/Pré--processamento-DataScience-blue?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-orange?style=for-the-badge)
-
-## Meu Portfólio 🌟
-
-* ### Data Science
-[Projeto de Bolsas da Compass UOL - Cloud Data Science](https://github.com/BaRobles/Compass_Data_Science)
-
-* ### Front-end
-<a href="https://barobles.github.io/Portfolio/">
-  <img src="https://github.com/BaRobles/BaRobles/blob/main/portfolio-print.png" alt="Portfólio link" width="200"/>
-</a>
 
 
 ## O que me motiva?
